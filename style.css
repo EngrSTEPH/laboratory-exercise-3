@@ -1,0 +1,62 @@
+body {
+    background-color: rgba(221, 175, 89, 0.589);
+  }
+  
+  h1 {
+    color: rgba(36, 39, 36, 0.548);
+    text-align: center;
+  }
+  
+  p {
+    font-family: Garamond, serif;
+  }
+  h1 {
+    background-color: rgb(196, 173, 147);
+  }
+  
+  div {
+    background-color: rgb(185, 118, 63);
+  }
+  
+  .p1 {
+    font-family: Garamond, serif;
+  }
+
+  .textarea{
+    width: 13%;
+    height: 4%;
+    margin: 100px;
+  scrollbar-3dlight-color: aquamarine;
+  }
+
+  .textarea1{
+
+    width: 10%;
+    height: 5%;
+  }
+
+  .textarea2{
+
+    width: 4%;
+    height: 4%;
+  }
+
+  .textarea3{
+
+    width: 2%;
+    height: 3%;
+
+  }
+
+  .textarea4{
+
+    width: 10%;
+    height: 5%;
+
+  }
+  .textarea5{
+
+    width: 10%;
+    height: 5%;
+
+  }
